@@ -5,5 +5,25 @@
 !.gitignore
 
 # Keep /docs folder (and everything inside it)
+#!docs/ ###
+#!/docs/##
+#!docs ###
+
+
+!/docs
+
+#!Welcome.md
+
+
+!docs/*
+#!/docs/*
+
+
+
+
+
 !/docs
 !docs/*
+!/docs/pages/*
+!/docs/site-lib/*
+!/docs/*
